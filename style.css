@@ -1,0 +1,31 @@
+body {
+    background: black;
+    color: white;
+}
+
+.first {padding-left: 50px}
+
+.bui {padding-left: 50px;}
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1 {width: 600px}
+
+.little {
+    padding-left: 50px;
+}
+
+.img2 {
+    width: 100px;
+    transform-origin: top left;
+}
+  
+.img2:hover {
+    transform: scale(4, 4);
+}
+
+.orei {padding-left: 800px;}
