@@ -7,14 +7,14 @@ body {
 
 .bui {padding-left: 50px;}
 
-.flex1{
+.flex1 {
     display: flex;
     justify-content: space-between;
     max-width: 800px;
 }
 
 
-.flex{
+.flex {
     display: flex;
     justify-content: space-between;
 }
