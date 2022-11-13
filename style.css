@@ -5,12 +5,14 @@ body {
 
 .first {padding-left: 50px}
 
+.kakko {font-size: small;}
+
 .bui {padding-left: 50px;}
 
 .flex1 {
     display: flex;
     justify-content: space-between;
-    max-width: 800px;
+    max-width: 820px;
 }
 
 .flex {
