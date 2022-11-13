@@ -4,7 +4,7 @@
 // 胸　クリックして記載変更
 const mune = document.getElementById('mune');
 mune.addEventListener('click', () => {
-    mune.textContent = '胸は(みんな大好き)ベンチプレス！';
+    mune.textContent = '胸は定番のベンチプレス！(ストレッチ効かせたいならダンベルで)';
 });
 
 // 肩　クリックして記載変更
@@ -22,7 +22,7 @@ senaka.addEventListener('click', () => {
 // 足　クリックして記載変更
 const ashi = document.getElementById('ashi');
 ashi.addEventListener('click', () => {
-    ashi.textContent = '足はスクワット！(リトルマツはレッグプレス派かな～)';
+    ashi.textContent = '足はスクワット！(膝が前に出過ぎないように)';
 });
 
 // 二頭筋　クリックして記載変更
