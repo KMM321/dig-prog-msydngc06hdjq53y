@@ -28,7 +28,7 @@ ashi.addEventListener('click', () => {
 // 二頭筋　クリックして記載変更
 const nito = document.getElementById('nito');
 nito.addEventListener('click', () => {
-    nito.textContent = '二頭はインクラインダンベルカール！(アームカールもセットでね)';
+    nito.textContent = '二頭はインクラインダンベルカール！(ハンマーカールもセットで)';
 });
 
 // 三頭筋　クリックして記載変更
